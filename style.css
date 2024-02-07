@@ -38,14 +38,14 @@ body {
   padding: 20px 15px;
   border: 2px solid #C850C0;
   border-radius: 2px;
-  background-color: #C850C090;
+  background-color: #C850C080;
   color: #ffffff;
 }
 
 .search-container input:focus {
   border: 2px solid #4158D0;
   box-shadow: 0px 0px 10px #4158D0;
-  background-color: #4158D040;
+  background-color: #4158D080;
   outline: none;
   transform: scale(1.03) translateY(-1px);
 }
@@ -74,13 +74,13 @@ ul li {
   margin: 0;
   padding: 10px 15px;
   color: #ffffff;
-  background-color: #C850C050;
+  background-color: #C850C070;
   list-style: none;
 }
 
 ul li:hover {
   color: #ffffff;
-  background-color: #4158D040;
+  background-color: #4158D070;
 }
 
 input {
