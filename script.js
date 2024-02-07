@@ -45,7 +45,7 @@ function useSuggestion(e) {
 		spread: 180,
 		ticks: 50,
 		gravity: 0.8,
-		origin: { y: 0.1 },
+		origin: { y: 0.08 },
 		decay: 0.94,
 		startVelocity: 30,
 		particleCount: 300,

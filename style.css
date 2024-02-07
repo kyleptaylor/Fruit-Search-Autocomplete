@@ -5,8 +5,8 @@
 
 body {
   display: flex;
-  justify-content: center;
-  width: 100vw;
+  align-items: center;
+  flex-direction: column;
   height: 100vh;
   background: linear-gradient(0deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
 }
@@ -40,6 +40,7 @@ body {
   border-radius: 2px;
   background-color: #C850C080;
   color: #ffffff;
+  font-size: 1.5em;
 }
 
 .search-container input:focus {
@@ -76,6 +77,7 @@ ul li {
   color: #ffffff;
   background-color: #C850C070;
   list-style: none;
+  font-size: 1.4em;
 }
 
 ul li:hover {
